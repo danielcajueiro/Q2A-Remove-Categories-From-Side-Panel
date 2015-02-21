@@ -1,7 +1,7 @@
 <?php
 
 /*
-	This file is part of Caju - Write on your wall, a Question2Answer plugin that
+	This file is part of Caju - Remove Cat From Side Panel, a Question2Answer plugin that
 	allows users only writting on their own walls. A big part of this file is a
         redistribution of "pupi_ra_module_admin.php"! So the same license applies.   
 
